@@ -1,22 +1,22 @@
 <p align="center">
- <img width="140px" src="https://raw.githubusercontent.com/SakerDakak/Kitchen-Orders/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
+ <img width="140px" src="https://raw.githubusercontent.com/sakeraldakak/Kitchen-Orders/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
  <h1 align="center">Kitchen Orders</h1>
  <p align="center">Restaurant kitchen orders management application<br>Kitchen workers can take in new orders and deliver ready orders.</p>
 
 ## Dashboard
-web: https://sakerdakak.github.io/Kitchen-Orders/
+web: https://sakeraldakak.github.io/Kitchen-Orders/
 
 ## APK
-Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
+Download: https://github.com/sakeraldakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
 
 ## Screenshort
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/Cover.jpg?raw=true" width="90%"></img>
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_2.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_3.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_4.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_5.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_6.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_7.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/Cover.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_2.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_3.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_4.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_5.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_6.png?raw=true" width="45%"></img> 
+<img src="https://github.com/sakeraldakak/Kitchen-Orders/blob/main/Screenshort/screenshort_7.png?raw=true" width="45%"></img> 
 
 ## Features:
 - Supports several languages (Arabic - English)
@@ -47,7 +47,7 @@ Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/Kitchen
 - SQL
 
 ## Authors
-- [Saker Al Dakak](https://www.github.com/SakerDakak)
+- [Saker Al Dakak](https://www.github.com/sakeraldakak)
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
